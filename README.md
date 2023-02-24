@@ -15,8 +15,8 @@ ES MAIL
 
 
 ES DADI
-- creo variabile numeroUtente e assegno un numero random
-- creo variabile numeroPc e assegno un numero random
+- creo variabile numeroUtente e assegno un numero random da 1 a 6
+- creo variabile numeroPc e assegno un numero random da 1 a 6
 SE
     numeroUtente > numeroPc
         "l utente ha vinto"
